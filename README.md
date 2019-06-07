@@ -63,6 +63,7 @@ Apple Developer Program required.
 * [YOONMS/WWDCPlayer](https://github.com/YOONMS/WWDCPlayer)
 * [leavenstee/InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)
 * [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+* [robbiet480/TransitPal](https://github.com/robbiet480/TransitPal)
 
 ## Sessions
 
